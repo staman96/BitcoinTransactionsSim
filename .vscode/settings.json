@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "cstdlib": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
